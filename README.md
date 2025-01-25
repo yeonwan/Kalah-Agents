@@ -10,9 +10,7 @@ A simple repository demonstrating the **Kalah** board game and various reinforce
 3. [Installation](#installation)  
 4. [How to Run](#how-to-run)  
 5. [Usage](#usage)  
-6. [Additional Notes](#additional-notes)  
-7. [License](#license)  
-8. [Contact](#contact)
+
 
 ---
 
@@ -125,25 +123,3 @@ This project offers:
   - Try different agents (random, heuristic, Q-learning, DQN) head-to-head.
 
 ---
-
-## Additional Notes
-
-- Since the code dates back ~6 years, some dependencies or code snippets might need updating to work with the latest version of PyTorch.  
-- If you encounter deprecation warnings or errors, refer to the [PyTorch documentation](https://pytorch.org/) or pinned dependency versions.
-
----
-
-## License
-
-If there is a specific license, please list it here. Otherwise, you can note that the project is unlicensed or open-source. Example:
-
-```
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
----
-
-## Contact
-
-- For suggestions, bug reports, or other inquiries, please open an issue in the repository.  
-- You may also contact the owner (if listed) or fork the repository to implement your own improvements.
